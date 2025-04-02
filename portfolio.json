@@ -1,0 +1,169 @@
+{
+  "name": "Akbhar Chowdhury",
+  "label": "Software Developer",
+  "image_path": "img/default-image.png",
+  "contact": {
+    "email": "akbharchowdhury1999@gmail.com",
+    "phone": "",
+    "location": "London"
+  },
+  "summary": "A self-taught passionate programmer who posses good technical, reasoning and analytical and reasoning skills. Enjoys keeping fit, organised and easy going",
+  "base_urlsss": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "Linkedin",
+      "url": "https://www.linkedin.com/in/akbhar-chowdhury-013835295",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/akbharchowdhury/",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Khalsa School Wear,",
+      "position": "Sales Assistant",
+      "url": "https://khalsaschoolwear.co.uk",
+      "start_date": "Nov 2014",
+      "end_date": "Nov 2014",
+      "summary": "Primarily been organising and sorting school uniform under supervision of assistant manager",
+      "highlights": [
+        "Stocking items, filing paperwork, posting and packaging, organising school uniforms",
+        "Helping customers at shop floor, for example by making recommendations and suggestions"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Personal blog website - BrightHabit",
+      "summary": "Developed CMS for users and authors to publish, modify and remove post",
+      "url": "https://github.com/akbharchowdhury/brighthabit",
+      "highlights": [
+        "Advanced search feature - can search by post title, description or filter by tags (multiple)",
+        "Pagination",
+        "Role based authentication - the website authenticates if the user is signed in and if the post belongs to them for delete or modification."
+      ],
+      "images": [
+        {
+          "img_path": "img/BrightHabit.png",
+          "caption": "BrightHabit"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=2",
+          "caption": "Image Caption 2"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=3",
+          "caption": "Image Caption 3"
+        }
+      ]
+    },
+    {
+      "title": "Recipe Finder app",
+      "summary": "An Android app that enables users to find and search for random recipe. The app connects to Spoonacular API - a nutrition, recipe and food API",
+      "url": "https://github.com/AkbharChowdhury/recipeapp",
+      "highlights": [
+        "Search feature - user can search for recipe and filter by meal type such as main dish and drinks",
+        "Recipe detail page - users can view more details about the recipe",
+        "Similar recipe suggestions and UI developed using material theme"
+      ],
+      "images": [
+
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Greenwich",
+      "location": "South East London",
+      "degrees": [
+        "Master of Science in Computing and Information Systems",
+        "First Class - masters project - a student mobile scheduling app"
+      ],
+      "honors": [
+        "Technical skills specifically in Android app development using Java ",
+        "Laravel - created a web event booking system for theme park"
+      ],
+      "graduation_date": "Jan, 2024"
+    },
+    {
+      "institution": "University of Greenwich",
+      "location": "South East London",
+      "degrees": [
+        "Bachelor of Science in Computing",
+        "First Class - final year project - a web-based personal organiser system"
+      ],
+      "honors": [
+        "Analytical and reasoning skills",
+        "proficiency in web development (Morris and chart js, FullCalendar) in developing a fully-fledged calendar showcasing student's class and coursework details"
+      ],
+      "graduation_date": "Aug, 2023"
+    }
+  ],
+  "skills": [
+
+     {
+      "name": "running/jogging",
+      "proficiency": 100,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "Java",
+      "proficiency": 70,
+      "proficiency_label": "Proficiency Level"
+    },
+
+     {
+      "name": "SQL",
+      "proficiency": 60,
+      "proficiency_label": "Comfortable"
+    },
+
+     {
+      "name": "TypeScript, Pandas, C#",
+      "proficiency": 50,
+      "proficiency_label": "Fairly Comfortable"
+    },
+    {
+      "name": "Python, Django",
+      "proficiency": 60,
+      "proficiency_label": "Comfortable"
+    },
+    {
+      "name": "JavaScript, HTML, CSS",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Strength training and jogging/running",
+      "summary": "I enjoy running and jogging short distances between 3-5 miles and lifting weights and working legs and calisthenics (pullups and pushups). ",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=7",
+          "caption": "Image Caption 7"
+        }
+      ]
+    },
+    {
+      "name": "Coding personal projects",
+      "summary": "I enjoy developing personal coding projects based on getting inspired by events such as from watching movies or tutorials",
+      "images": [
+       
+      ]
+    },
+    {
+      "name": "Reading books, tech blogs, news",
+      "summary": "I enjoy reading during my spare time to increase my knowledge base and keep updated with the lastest news and technologies. My favourite book is the Silent Patient",
+      "images": [
+        {
+          "img_path": "img/the_silent_patient.jpg",
+          "caption": "recently read book: The silent patient"
+        }
+      ]
+    }
+  ]
+}
