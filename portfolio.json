@@ -7,7 +7,7 @@
     "phone": "",
     "location": "London"
   },
-  "summary": "A self-taught passionate programmer who posses good technical, reasoning and analytical and reasoning skills. Enjoys keeping fit, organised and easy going",
+  "summary": "A self-taught passionate programmer who obtained good technical, reasoning and analytical and reasoning skills. Enjoys keeping fit, organised and easy going",
   "base_urlsss": "127.0.0.1:5500",
   "social_links": [
     {
@@ -107,7 +107,7 @@
         "DBMS skills in Oracle"
       ],
        "honors": [
-        "certificate for academic grades"
+        "Certificate for academic grades"
       ],
       "graduation_date": "Aug, 2023"
     }
@@ -115,14 +115,14 @@
   "skills": [
 
      {
-      "name": "Running/Jogging",
+      "name": "Running",
       "proficiency": 100,
-      "proficiency_label": "Proficiency Level"
+      "proficiency_label": "Very comfortable"
     },
     {
       "name": "Java",
       "proficiency": 70,
-      "proficiency_label": "Proficiency Level"
+      "proficiency_label": "Very comfortable"
     },
 
      {
@@ -149,14 +149,14 @@
     },
     {
       "name": "Verbal Communication skills",
-      "proficiency": 25,
-      "proficiency_label": "not very comfortable"
+      "proficiency": 60,
+      "proficiency_label": "Efficient"
     }
   ],
   "interests": [
     {
-      "name": "Strength training and jogging/running",
-      "summary": "I enjoy running and jogging short distances between 3-5 miles and lifting weights and working legs and calisthenics (pullups and pushups). ",
+      "name": "Strength training and running",
+      "summary": "I enjoy running short distances between 3-5 miles and lifting weights and working legs and calisthenics (pull-ups and push-ups). ",
       "images": [
 
       ]
@@ -175,7 +175,7 @@
     },
     {
       "name": "Reading books, tech blogs, news",
-      "summary": "I enjoy reading during my spare time to increase my knowledge base and keep updated with the lastest news and technologies. My favourite book is the Silent Patient",
+      "summary": "I enjoy reading during my spare time to increase my knowledge base and keep updated with the latest news and technologies. My favourite book is the Silent Patient",
       "images": [
         {
           "img_path": "img/the_silent_patient.jpg",
