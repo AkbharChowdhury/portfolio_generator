@@ -7,7 +7,7 @@
     "phone": "",
     "location": "London"
   },
-  "summary": "A self-taught passionate programmer who obtained good technical, reasoning and analytical and reasoning skills. Enjoys keeping fit, organised and easy going",
+  "summary": "A self-taught passionate programmer who obtained technical, analytical and reasoning skills from academia and personal coding projects as a hobby. Enjoys keeping fit, organised, calculated and easy going",
   "base_urlsss": "127.0.0.1:5500",
   "social_links": [
     {
@@ -85,8 +85,9 @@
         "First Class - masters project - a student mobile scheduling app"
       ],
       "highlights": [
-        "Technical skills specifically in Android app development using Java ",
-        "Laravel - created a web event booking system for theme park"
+        "Technical skills specifically in Android app development using Java",
+        "Laravel - created a web event booking system for theme park",
+        "Project management skills and understanding of how business operates using PESTLE and SWOT analysis"
       ],
 
        "honors": [
@@ -102,9 +103,9 @@
         "First Class - final year project - a web-based personal organiser system"
       ],
       "highlights": [
-        "Analytical and reasoning skills",
         "Proficiency in web development (Morris and chart js, FullCalendar) in developing a fully-fledged calendar showcasing student's class and coursework details",
-        "DBMS skills in Oracle"
+        "DBMS skills in Oracle",
+        "learned Python GUI development and functional programming"
       ],
        "honors": [
         "Certificate for academic grades"
