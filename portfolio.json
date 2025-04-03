@@ -49,15 +49,8 @@
         {
           "img_path": "img/BrightHabit.png",
           "caption": "BrightHabit"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
         }
+
       ]
     },
     {
@@ -70,6 +63,15 @@
         "Similar recipe suggestions and UI developed using material theme"
       ],
       "images": [
+        {
+          "img_path": "img/recipe_app.png",
+          "caption": "Recipe finder app"
+        },
+        {
+          "img_path": "img/recipe_details.png",
+          "caption": "Recipe details with cooking instructions and equipment"
+        }
+
 
       ]
     }
@@ -101,7 +103,8 @@
       ],
       "highlights": [
         "Analytical and reasoning skills",
-        "proficiency in web development (Morris and chart js, FullCalendar) in developing a fully-fledged calendar showcasing student's class and coursework details"
+        "Proficiency in web development (Morris and chart js, FullCalendar) in developing a fully-fledged calendar showcasing student's class and coursework details",
+        "DBMS skills in Oracle"
       ],
        "honors": [
         "certificate for academic grades"
@@ -162,6 +165,11 @@
       "name": "Coding personal projects",
       "summary": "I enjoy developing personal coding projects based on getting inspired by events such as from watching movies or tutorials. Recent coding projects include a cinema desktop GUI application developed in Java AWT and PyQt that enables admin to add and edit movies and view and search for movies.",
       "images": [
+         {
+          "img_path": "img/movie_app.png",
+          "caption": "cinema desktop app"
+        }
+
        
       ]
     },
