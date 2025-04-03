@@ -82,9 +82,13 @@
         "Master of Science in Computing and Information Systems",
         "First Class - masters project - a student mobile scheduling app"
       ],
-      "honors": [
+      "highlights": [
         "Technical skills specifically in Android app development using Java ",
         "Laravel - created a web event booking system for theme park"
+      ],
+
+       "honors": [
+        "Postgraduate Scholarship awarded"
       ],
       "graduation_date": "Jan, 2024"
     },
@@ -95,9 +99,12 @@
         "Bachelor of Science in Computing",
         "First Class - final year project - a web-based personal organiser system"
       ],
-      "honors": [
+      "highlights": [
         "Analytical and reasoning skills",
         "proficiency in web development (Morris and chart js, FullCalendar) in developing a fully-fledged calendar showcasing student's class and coursework details"
+      ],
+       "honors": [
+        "certificate for academic grades"
       ],
       "graduation_date": "Aug, 2023"
     }
@@ -105,7 +112,7 @@
   "skills": [
 
      {
-      "name": "running/jogging",
+      "name": "Running/Jogging",
       "proficiency": 100,
       "proficiency_label": "Proficiency Level"
     },
@@ -131,10 +138,16 @@
       "proficiency": 60,
       "proficiency_label": "Comfortable"
     },
+
     {
       "name": "JavaScript, HTML, CSS",
       "proficiency": 75,
       "proficiency_label": "Comfortable"
+    },
+    {
+      "name": "Verbal Communication skills",
+      "proficiency": 25,
+      "proficiency_label": "not very comfortable"
     }
   ],
   "interests": [
@@ -142,15 +155,12 @@
       "name": "Strength training and jogging/running",
       "summary": "I enjoy running and jogging short distances between 3-5 miles and lifting weights and working legs and calisthenics (pullups and pushups). ",
       "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
-        }
+
       ]
     },
     {
       "name": "Coding personal projects",
-      "summary": "I enjoy developing personal coding projects based on getting inspired by events such as from watching movies or tutorials",
+      "summary": "I enjoy developing personal coding projects based on getting inspired by events such as from watching movies or tutorials. Recent coding projects include a cinema desktop GUI application developed in Java AWT and PyQt that enables admin to add and edit movies and view and search for movies.",
       "images": [
        
       ]

@@ -236,7 +236,14 @@
                       {% for deg in edu.degrees %}<li>{{ deg }}</li>{% endfor %}
                     </ul>
                   {% endif %}
-                  {% if edu.honors %}
+                  {% if edu.highlights %}
+                    <h4>Highlights</h4>
+                    <ul>
+                      {% for hon in edu.highlights %}<li>{{ hon }}</li>{% endfor %}
+                    </ul>
+                  {% endif %}
+
+                    {% if edu.honors %}
                     <h4>Honors</h4>
                     <ul>
                       {% for hon in edu.honors %}<li>{{ hon }}</li>{% endfor %}
