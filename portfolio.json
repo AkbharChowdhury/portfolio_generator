@@ -127,7 +127,7 @@
     },
 
      {
-      "name": "SQL",
+      "name": "SQL, JSON, XML",
       "proficiency": 60,
       "proficiency_label": "Comfortable"
     },
@@ -149,7 +149,7 @@
       "proficiency_label": "Comfortable"
     },
     {
-      "name": "Verbal Communication skills",
+      "name": "Verbal & Written Communication skills",
       "proficiency": 60,
       "proficiency_label": "Efficient"
     }
@@ -157,18 +157,18 @@
   "interests": [
     {
       "name": "Strength training and running",
-      "summary": "I enjoy running short distances between 3-5 miles and lifting weights and working legs and calisthenics (pull-ups and push-ups). ",
+      "summary": "Can comfortably run short distances (3 miles), lifting weights, working legs and calisthenics (pull-ups and push-ups).",
       "images": [
 
       ]
     },
     {
       "name": "Coding personal projects",
-      "summary": "I enjoy developing personal coding projects based on getting inspired by events such as from watching movies or tutorials. Recent coding projects include a cinema desktop GUI application developed in Java AWT and PyQt that enables admin to add and edit movies and view and search for movies.",
+      "summary": "I enjoy developing personal coding projects based on getting inspired by events such as from watching movies or coding tutorials. Recent coding projects include a cinema desktop GUI application developed in Java AWT and PyQt that enables admin to add and edit movies and view and search for movies.",
       "images": [
          {
           "img_path": "img/movie_app.png",
-          "caption": "cinema desktop app"
+          "caption": "Cinema desktop app (PyQt6)"
         }
 
        
@@ -176,11 +176,11 @@
     },
     {
       "name": "Reading books, tech blogs, news",
-      "summary": "I enjoy reading during my spare time to increase my knowledge base and keep updated with the latest news and technologies. My favourite book is the Silent Patient",
+      "summary": "A hobby of mine is to read news and tech blogs using the Google app as well as reading about health and fitness. My favourite book is the Silent Patient",
       "images": [
         {
           "img_path": "img/the_silent_patient.jpg",
-          "caption": "recently read book: The silent patient"
+          "caption": "Recently read book: The Silent Patient by Alex Michaelides"
         }
       ]
     }
