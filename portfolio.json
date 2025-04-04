@@ -7,7 +7,7 @@
     "phone": "",
     "location": "London"
   },
-  "summary": "A self-taught passionate programmer who obtained technical, analytical and reasoning skills from academia and personal coding projects as a hobby. Enjoys keeping fit, organised, calculated and easy going",
+  "summary": "A self-taught passionate programmer who acquired technical, analytical and reasoning skills from academia and personal coding projects as a hobby. Enjoys keeping fit, organised, calculated and easy going.",
   "base_urlsss": "127.0.0.1:5500",
   "social_links": [
     {
@@ -91,7 +91,7 @@
       ],
 
        "honors": [
-        "Postgraduate Scholarship awarded"
+        "Postgraduate scholarship awarded"
       ],
       "graduation_date": "Jan, 2024"
     },
@@ -114,12 +114,6 @@
     }
   ],
   "skills": [
-
-     {
-      "name": "Running",
-      "proficiency": 100,
-      "proficiency_label": "Very comfortable"
-    },
     {
       "name": "Java",
       "proficiency": 70,
@@ -144,20 +138,20 @@
     },
 
     {
-      "name": "JavaScript, HTML, CSS",
+      "name": "HTML, CSS & JavaScript",
       "proficiency": 75,
       "proficiency_label": "Comfortable"
     },
     {
-      "name": "Verbal & Written Communication skills",
+      "name": "Verbal & written communication skills",
       "proficiency": 60,
       "proficiency_label": "Efficient"
     }
   ],
   "interests": [
     {
-      "name": "Strength training and running",
-      "summary": "Can comfortably run short distances (3 miles), lifting weights, working legs and calisthenics (pull-ups and push-ups).",
+      "name": "Health and fitness",
+      "summary": "Enjoy exercising, lifting weights, and calisthenics (pull-ups).",
       "images": [
 
       ]
