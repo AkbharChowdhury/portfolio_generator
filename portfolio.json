@@ -158,7 +158,7 @@
     },
     {
       "name": "Coding personal projects",
-      "summary": "I enjoy developing personal coding projects based on getting inspired by events such as from watching movies or coding tutorials. Recent coding projects include a cinema desktop GUI application developed in PyQt that enables admin to perform add and modify movies.",
+      "summary": "I enjoy developing personal coding projects based on getting inspired by events such as from watching movies or coding tutorials. Recent coding projects include a cinema desktop GUI application developed in PyQt that enables admin to add and modify movies.",
       "images": [
          {
           "img_path": "img/movie_app.png",
