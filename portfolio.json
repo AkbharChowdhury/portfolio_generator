@@ -28,10 +28,10 @@
       "url": "https://khalsaschoolwear.co.uk",
       "start_date": "Nov 2014",
       "end_date": "Nov 2014",
-      "summary": "Primarily been organising and sorting school uniform under supervision of assistant manager",
+      "summary": "Primarily been organising and sorting school uniform",
       "highlights": [
         "Stocking items, filing paperwork, posting and packaging, organising school uniforms",
-        "Helping customers at shop floor, for example by making recommendations and suggestions"
+        "Helping customers, for example by making suggestions"
       ]
     }
   ],
@@ -79,7 +79,7 @@
   "education": [
     {
       "institution": "University of Greenwich",
-      "location": "South East London",
+      "location": "London",
       "degrees": [
         "Master of Science in Computing and Information Systems",
         "First Class - masters project - a student mobile scheduling app"
@@ -105,7 +105,7 @@
       "highlights": [
         "Proficiency in web development (Morris and chart js, FullCalendar) in developing a fully-fledged calendar showcasing student's class and coursework details",
         "DBMS skills in Oracle",
-        "learned Python GUI development and functional programming"
+        "Learned Python GUI development and functional programming concepts"
       ],
        "honors": [
         "Certificate for academic grades"
@@ -145,7 +145,7 @@
     {
       "name": "Verbal & written communication skills",
       "proficiency": 60,
-      "proficiency_label": "Efficient"
+      "proficiency_label": "Confident"
     }
   ],
   "interests": [
@@ -158,7 +158,7 @@
     },
     {
       "name": "Coding personal projects",
-      "summary": "I enjoy developing personal coding projects based on getting inspired by events such as from watching movies or coding tutorials. Recent coding projects include a cinema desktop GUI application developed in PyQt that enables admin to perform CRUD operations on movies.",
+      "summary": "I enjoy developing personal coding projects based on getting inspired by events such as from watching movies or coding tutorials. Recent coding projects include a cinema desktop GUI application developed in PyQt that enables admin to perform add and modify movies.",
       "images": [
          {
           "img_path": "img/movie_app.png",
@@ -170,7 +170,7 @@
     },
     {
       "name": "Reading books, tech blogs, news",
-      "summary": "A hobby of mine is to read news and tech blogs using the Google app as well as reading about health and fitness. My favourite book is the Silent Patient",
+      "summary": "A hobby of mine is to read news and tech blogs using the Google app as well as reading about health and fitness. My favourite book is the Silent Patient.",
       "images": [
         {
           "img_path": "img/the_silent_patient.jpg",
