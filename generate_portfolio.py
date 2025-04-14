@@ -1,15 +1,19 @@
 import json
 from datetime import UTC, datetime
 from pathlib import Path
-
 from jinja2 import Environment, FileSystemLoader
 
-# Load JSON data
-with Path("portfolio.json").open(encoding="utf-8") as f:
-    data = json.load(f)
+def load_portfolio_data():
+    # Load JSON data
+    with Path("portfolio.json").open(encoding="utf-8") as file:
+        data = json.load(file)
+    return data
 
+
+data = load_portfolio_data()
 # Add any extra context if needed
 data["current_year"] = datetime.now(tz=UTC).year
+data['fig'] = '<script src="https://gist.github.com/AkbharChowdhury/e051eb9fe3d6c01551e25c7800fa5a41.js"></script>'
 
 if "social_links" in data:
     for link in data["social_links"]:
@@ -25,10 +29,6 @@ resume_template = env.get_template("resume_template.html")
 # Render the template with the data
 html_output = index_template.render(**data)
 resume_output = resume_template.render(**data)
-
-# This is equivalent to...
-# html_output = index_template.render(name=data["name"], label=data["label"]...)
-# resume_output = resume_template.render(name=data["name"], label=data["label"]...)
 
 # Write the output to an HTML file
 with Path("index.html").open("w", encoding="utf-8") as f:

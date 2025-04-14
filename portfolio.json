@@ -74,6 +74,19 @@
 
 
       ]
+    },
+
+
+    {
+      "title": "Data Visualisation",
+      "summary": "developed interactive data visualisation based on personal interest",
+      "url": "https://colab.research.google.com/gist/AkbharChowdhury/4e00792983bb4b41e304959e70dbffd3/interactive_bar_chart.ipynb",
+      "highlights": [
+        "Interactive bar chart",
+        "Pie chart showcasing how I spend my free time"
+
+      ]
+
     }
   ],
   "education": [
@@ -97,7 +110,7 @@
     },
     {
       "institution": "University of Greenwich",
-      "location": "South East London",
+      "location": "London",
       "degrees": [
         "Bachelor of Science in Computing",
         "First Class - final year project - a web-based personal organiser system"

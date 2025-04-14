@@ -55,6 +55,7 @@
   </head>
 
   <body>
+
     <header class="page-header">
       <div class="container">
         <div class="header-top flex-responsive">
@@ -142,7 +143,7 @@
                 <section>
                   <h3>
                     {% if project.url %}
-                      <a href="{{ project.url }}">{{ project.title }}</a>
+                      <a href="{{ project.url }}" target="_blank">{{ project.title }}</a>
                     {% else %}
                       {{ project.title }}
                     {% endif %}
@@ -152,6 +153,12 @@
                     <ul>
                       {% for highlight in project.highlights %}<li>{{ highlight }}</li>{% endfor %}
                     </ul>
+                  {% if project.title  == 'Data Visualisation' %}
+                    {{ fig|safe }}
+                  {% endif %}
+
+
+
                   {% endif %}
                   {% if project.images %}
                     <div class="gallery main-gallery">
@@ -178,7 +185,7 @@
                 <section>
                   <h3>
                     {% if vol.url %}
-                      {{ vol.position }} at <a href="{{ vol.url }}">{{ vol.organization }}</a>
+                      {{ vol.position }} at <a href="{{ vol.url }}" target="_blank">{{ vol.organization }}</a>
                     {% else %}
                       {{ vol.position }} at {{ vol.organization }}
                     {% endif %}
@@ -224,7 +231,7 @@
                 <section>
                   <h3>
                     {% if edu.url %}
-                      <a href="{{ edu.url }}">{{ edu.institution }}</a>
+                      <a href="{{ edu.url }}" target="_blank">{{ edu.institution }}</a>
                     {% else %}
                       {{ edu.institution }}
                     {% endif %}
@@ -327,7 +334,7 @@
 
     <footer class="page-footer">
       <div class="container">
-        <p>© {{ current_year }} {{ name }}. All rights reserved.</p>
+        <p>© {{ current_year }} {{ name }}. All rights reserved. {{ plt }}</p>
       </div>
     </footer>
 
