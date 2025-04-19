@@ -50,7 +50,6 @@
           "img_path": "img/BrightHabit.png",
           "caption": "BrightHabit"
         }
-
       ]
     },
     {
@@ -71,22 +70,16 @@
           "img_path": "img/recipe_details.png",
           "caption": "Recipe details with cooking instructions and equipment"
         }
-
-
       ]
     },
-
-
     {
       "title": "Data Visualisation",
-      "summary": "developed interactive data visualisation based on personal interest",
+      "summary": "Developed interactive data visualisation based on personal interest.",
       "url": "https://colab.research.google.com/gist/AkbharChowdhury/4e00792983bb4b41e304959e70dbffd3/interactive_bar_chart.ipynb",
       "highlights": [
         "Interactive bar chart",
         "Pie chart showcasing how I spend my free time"
-
       ]
-
     }
   ],
   "education": [
@@ -100,10 +93,10 @@
       "highlights": [
         "Technical skills specifically in Android app development using Java",
         "Laravel - created a web event booking system for theme park",
-        "Project management skills and understanding of how business operates using PESTLE and SWOT analysis"
+        "Project management skills and understanding of how business operates using PESTLE and SWOT analysis",
+        "UXD - evaluated different music streaming services and designed a prototype (Axure) - critical, reasoning and analytical skills obtained through research and literature papers."
       ],
-
-       "honors": [
+      "honors": [
         "Postgraduate scholarship awarded"
       ],
       "graduation_date": "Jan, 2024"
@@ -120,7 +113,7 @@
         "DBMS skills in Oracle",
         "Learned Python GUI development and functional programming concepts"
       ],
-       "honors": [
+      "honors": [
         "Certificate for academic grades"
       ],
       "graduation_date": "Aug, 2023"
@@ -128,37 +121,30 @@
   ],
   "skills": [
     {
+      "name": "HTML, CSS & JavaScript",
+      "proficiency": 75,
+      "proficiency_label": "Proficient"
+    },
+    {
       "name": "Java",
       "proficiency": 70,
       "proficiency_label": "Very comfortable"
     },
-
-     {
-      "name": "SQL, JSON, XML",
+    {
+      "name": "SQL",
       "proficiency": 60,
       "proficiency_label": "Comfortable"
     },
 
-     {
-      "name": "TypeScript, Pandas, C#",
+    {
+      "name": "Python, Django Pandas, Numpy",
       "proficiency": 50,
       "proficiency_label": "Fairly Comfortable"
     },
     {
-      "name": "Python, Django",
-      "proficiency": 60,
-      "proficiency_label": "Comfortable"
-    },
-
-    {
-      "name": "HTML, CSS & JavaScript",
-      "proficiency": 75,
-      "proficiency_label": "Comfortable"
-    },
-    {
-      "name": "Verbal & written communication skills",
-      "proficiency": 60,
-      "proficiency_label": "Confident"
+      "name": "Communication skills",
+      "proficiency": 50,
+      "proficiency_label": "Fairly Comfortable"
     }
   ],
   "interests": [
@@ -166,19 +152,16 @@
       "name": "Health and fitness",
       "summary": "Enjoy exercising, lifting weights, and calisthenics (pull-ups).",
       "images": [
-
       ]
     },
     {
       "name": "Coding personal projects",
-      "summary": "I enjoy developing personal coding projects based on getting inspired by events such as from watching movies or coding tutorials. Recent coding projects include a cinema desktop GUI application developed in PyQt that enables admin to add and modify movies.",
+      "summary": "Enjoys developing personal coding projects based on getting inspired by events such as from watching movies or coding tutorials. Recent coding projects include a cinema desktop application enabling admin to add, modify and search movies.",
       "images": [
-         {
+        {
           "img_path": "img/movie_app.png",
           "caption": "Cinema desktop app (PyQt6)"
         }
-
-       
       ]
     },
     {
