@@ -80,6 +80,15 @@
         "Interactive bar chart",
         "Pie chart showcasing how I spend my free time"
       ]
+    },
+    {
+      "title": "Random recipe finder",
+      "summary": "A recipe website enabling users to search and view recipes.",
+      "url": "http://cookbook.great-site.net/index.php",
+      "highlights": [
+        "Displays random recipe on the homepage",
+        "Recipe details page with cooking instructions and ingredients"
+      ]
     }
   ],
   "education": [
@@ -135,7 +144,6 @@
       "proficiency": 60,
       "proficiency_label": "Comfortable"
     },
-
     {
       "name": "Python, Django Pandas, Numpy",
       "proficiency": 50,
