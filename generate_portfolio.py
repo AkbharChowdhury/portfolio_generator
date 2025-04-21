@@ -13,7 +13,7 @@ def load_portfolio_data():
 data = load_portfolio_data()
 # Add any extra context if needed
 data["current_year"] = datetime.now(tz=UTC).year
-data['fig'] = '<script src="https://gist.github.com/AkbharChowdhury/e051eb9fe3d6c01551e25c7800fa5a41.js"></script>'
+data['fig'] = '<script src="https://gist.github.com/AkbharChowdhury/e70250d32ad8ee7ac955b5b1918b0a95.js"></script>'
 
 if "social_links" in data:
     for link in data["social_links"]:
