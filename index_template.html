@@ -111,7 +111,7 @@
       <div class="container">
         <main>
           {% if work_experience %}
-            <section>
+            <section id="experience">
               <h2 class="section-heading">Work Experience</h2>
               {% for job in work_experience %}
                 <section>
@@ -137,7 +137,7 @@
           {% endif %}
 
           {% if projects %}
-            <section>
+            <section id="projects">
               <h2 class="section-heading">Projects</h2>
               {% for project in projects %}
                 <section>
@@ -225,7 +225,7 @@
         <!-- Sidebar Section -->
         <aside>
           {% if education %}
-            <section>
+            <section id="education">
               <h2 class="section-heading">Education</h2>
               {% for edu in education %}
                 <section>
@@ -269,7 +269,7 @@
           {% endif %}
 
           {% if skills %}
-            <section>
+            <section id="skills">
               <h2 class="section-heading">Skills</h2>
               <ul class="unstyled-list">
                 {% for skill in skills %}
@@ -291,7 +291,7 @@
           {% endif %}
 
           {% if languages %}
-            <section>
+            <section id="languages">
               <h2 class="section-heading">Languages</h2>
               <ul class="unstyled-list">
                 {% for lang in languages %}
