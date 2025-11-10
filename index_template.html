@@ -101,7 +101,9 @@
                 {% endfor %}
               </ul>
             {% endif %}
-            {% if summary %}<p class="header-summary">{{ summary }}</p>{% endif %}
+            {% if summary %}
+              <p class="header-summary">{{ summary }}</p>
+              {% endif %}
           </div>
         </div>
       </div>
@@ -151,7 +153,9 @@
                   {% if project.summary %}<p>{{ project.summary }}</p>{% endif %}
                   {% if project.highlights %}
                     <ul>
-                      {% for highlight in project.highlights %}<li>{{ highlight }}</li>{% endfor %}
+                      {% for highlight in project.highlights %}
+                        <li>{{ highlight.capitalize() }}</li>
+                        {% endfor %}
                     </ul>
                   {% if project.title  == 'Data Visualisation' %}
                     {{ fig|safe }}

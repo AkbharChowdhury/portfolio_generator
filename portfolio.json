@@ -36,6 +36,17 @@
     }
   ],
   "projects": [
+
+    {
+      "title": "Taste Temptations",
+      "summary": "Random recipe finder website with details page",
+      "url": "https://taste-temptations-ho6i.onrender.com",
+      "highlights": [
+        "search recipes by title and filter by  meal, cuisines and intolerances",
+        "details page listing summary (ingredients, instructions and similar recipes.)"
+      ]
+
+    },
     {
       "title": "Personal blog website - BrightHabit",
       "summary": "Developed CMS for users and authors to publish, modify and remove post",
